@@ -51,6 +51,9 @@ flutter:
     - assets/image/custom_estimate.png
     - assets/image/picture_estimate.png
     - assets/image/makekitchen_logo.png
+    - assets/image/google_logo.png
+    - assets/image/kakao_logo.png
+    - assets/image/naver_logo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
